@@ -4,7 +4,7 @@ I'm a passionate software developer and machine learning enthusiast.
 
 - 🔭 I’m currently working on **[STALK]**
 - 🌱 I’m currently learning **Python, Java, and Machine Learning**
-- 📫 How to reach me: [kit26.aids07@gmail.com](kit26.aids07@gmail.com)
+- 📫 How to reach me: [allwinallwin246@gmail.com](allinallwin246@gmail.com)
 - ⚡ Fun fact: I love solving coding challenges!
 
 ---
