@@ -1,13 +1,21 @@
-- allwin
-- 👋 Hi, I’m @ALLWINALLWI
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋, I'm [ALLWIN]!
 
-<!---
-ALLWINALLWI/ALLWINALLWI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software developer and machine learning enthusiast.
+
+- 🔭 I’m currently working on **[STALK]**
+- 🌱 I’m currently learning **Python, Java, and Machine Learning**
+- 📫 How to reach me: [kit26.aids07@gmail.com](allwinallwin246@gmail.com)
+- ⚡ Fun fact: I love solving coding challenges!
+
+---
+
+### GitHub Stats:
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### Languages and Tools:
+[![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=FFD43B)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)](https://www.java.com/)
+[![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=00599C)](https://en.wikipedia.org/wiki/C_(programming_language))
+
+---
