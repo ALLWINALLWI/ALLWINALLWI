@@ -21,10 +21,4 @@ I'm a passionate software developer and machine learning enthusiast.
 ---
 # Mediumship
 
-[![](https://img.shields.io/badge/chrome%20web%20store-v2.7-informational)](https://github.com/swapagarwal/mediumship/archive/master.zip)
-[![](https://img.shields.io/badge/mozilla%20add--on-v2.7-informational)](https://github.com/swapagarwal/mediumship/blob/master/firefox/web-ext-artifacts/addon-2.7.xpi?raw=true)
-
-[**DISCLAIMER: USE IT AT YOUR OWN RISK!**](#disclaimer)
-
-📚 Mediumship is a browser extension that lets you try Medium with membership-features, allowing you to read all Medium stories for free.
 
